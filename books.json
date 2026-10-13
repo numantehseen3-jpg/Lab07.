@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": 1,
+    "title": "Introduction to Programming",
+    "author": "John Smith",
+    "price": 1500
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "author": "Ali Ahmed",
+    "price": 2000
+  },
+  {
+    "id": 3,
+    "title": "Database Systems",
+    "author": "Sara Khan",
+    "price": 1800
+  }
+]
